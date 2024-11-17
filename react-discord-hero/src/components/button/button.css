@@ -1,0 +1,25 @@
+.Button {
+    border-radius: 30px;
+    padding: 15px 30px;
+    border: none;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    color: rgb(24, 23, 23);
+    background-color: white; 
+}
+
+.Button--Open {
+    color: white;
+    background-color: rgb(24, 23, 23);
+}
+
+.Button--Open:hover {
+    background-color: rgb(46, 43, 43);
+}
+
+.Button--Download:hover {
+    background-color: rgb(226, 225, 235);
+    color: rgb(24, 23, 23);
+}

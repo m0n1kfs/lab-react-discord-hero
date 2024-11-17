@@ -1,0 +1,6 @@
+.text {
+    color: white;
+    font: 1.2rem "Roboto", sans-serif;
+    max-width: 550px;
+    line-height: 2rem;
+}
